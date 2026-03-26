@@ -8,7 +8,7 @@ const AboutPage = () => {
       {/* Hero Section with Gradient */}
       <section className="relative py-24 px-6 bg-gradient-to-br from-[#FDF5F0] via-white to-[#FDF5F0] overflow-hidden">
         <div className="absolute inset-0 opacity-5">
-          <div className="absolute inset-0" style={{backgroundImage: 'radial-gradient(circle at 2px 2px, #E31E24 1px, transparent 0)', backgroundSize: '40px 40px'}}></div>
+          <div className="absolute inset-0" style={{ backgroundImage: 'radial-gradient(circle at 2px 2px, #E31E24 1px, transparent 0)', backgroundSize: '40px 40px' }}></div>
         </div>
         <div className="container mx-auto max-w-5xl relative z-10">
           <div className="inline-block mb-4">
@@ -71,14 +71,14 @@ const AboutPage = () => {
               <h2 className="text-4xl font-serif text-gray-900">Our Story</h2>
             </div>
             <div className="space-y-6 text-gray-700 leading-relaxed text-lg">
-              <p>
-                The Center for Business Law was founded with a singular vision: to provide small businesses and entrepreneurs with the same caliber of legal expertise typically reserved for large corporations. Our journey began over 50 years ago, and since then, we've grown into a trusted partner for over 1,000 businesses.
+              <p>Center for Business Law was founded with aim to provide small businesses and entrepreneurs with the same caliber of legal expertise typically reserved for large corporations. And slowly gaining traction to actually implement the thought process.
+
               </p>
-              <p>
-                Throughout our history, we've successfully completed 500+ projects, facilitated 500+ business acquisitions, and developed 100+ succession plans. These milestones reflect our commitment to not just legal excellence, but to the success and longevity of the businesses we serve.
+              <p>Throughout our history, we've successfully completed 10+ projects, facilitated 100+ environmental research and developed operating methods-intellectual value. These milestones reflect our commitment to not just legal excellence, but to the success and longevity of the integrity we serve.
+
               </p>
-              <p>
-                Today, we continue to innovate and adapt, staying ahead of regulatory changes and market dynamics to provide our clients with forward-thinking legal strategies that drive business growth and protect their interests.
+              <p>Today; we continue to innovate and adapt, staying ahead of regulatory changes and understanding market dynamics to provide with forward-thinking legal strategies that drive business growth and protect the interests.
+
               </p>
             </div>
           </div>
@@ -99,16 +99,16 @@ const AboutPage = () => {
           </div>
           
           <div className="grid md:grid-cols-3 gap-10">
-            {teamData.map((member) => (
-              <div key={member.id} className="group">
+            {teamData.map((member) =>
+            <div key={member.id} className="group">
                 <div className="bg-gradient-to-br from-white to-[#FDF5F0] rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 border border-gray-100 hover:border-[#E31E24] hover:border-opacity-30 transform hover:-translate-y-2">
                   <div className="relative mb-6">
                     <div className="w-40 h-40 mx-auto rounded-full overflow-hidden ring-4 ring-white shadow-xl group-hover:ring-[#E31E24] group-hover:ring-opacity-30 transition-all">
-                      <img 
-                        src={member.image} 
-                        alt={member.name}
-                        className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500"
-                      />
+                      <img
+                      src={member.image}
+                      alt={member.name}
+                      className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-500" />
+
                     </div>
                   </div>
                   <div className="text-center">
@@ -118,12 +118,12 @@ const AboutPage = () => {
                   </div>
                 </div>
               </div>
-            ))}
+            )}
           </div>
         </div>
       </section>
-    </div>
-  );
+    </div>);
+
 };
 
 export default AboutPage;
