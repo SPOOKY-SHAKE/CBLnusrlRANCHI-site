@@ -150,7 +150,7 @@ export const teamData = [
 {
   id: 3,
   name: "Sarthak Kumar Ambastha",
-  position: "Partner",
+  position: "Student Leader",
   bio: "Emily's expertise in international trade law helps clients navigate complex global regulations.",
   image: "https://images.unsplash.com/photo-1764592620941-a5bcaa79ce92?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzOTB8MHwxfHNlYXJjaHwyfHxwcm9mZXNzaW9uYWwlMjBsYXd5ZXJ8ZW58MHx8fHwxNzc0NDIxMjg4fDA&ixlib=rb-4.1.0&q=85"
 }];
