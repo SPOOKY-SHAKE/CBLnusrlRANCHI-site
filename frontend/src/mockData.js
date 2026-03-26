@@ -42,7 +42,7 @@ export const testimonialsData = [
 },
 {
   id: 2,
-  name: "Emily Davis",
+  name: "Emily\xA0",
   company: "Testimonial Author Company",
   rating: 5,
   text: "Their team is knowledgeable and responsive, providing excellent support that has made a significant difference in our compliance and understanding of business law.",
