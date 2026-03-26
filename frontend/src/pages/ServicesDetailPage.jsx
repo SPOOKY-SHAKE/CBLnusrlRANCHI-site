@@ -48,9 +48,9 @@ const ServicesDetailPage = () => {
           <div className="space-y-6">
             {["Industry linked legal expertise",
 
-            "Proven track record with 1,000+ satisfied business clients", "Proactive seminars and frequent competitions for engagement",
+            "Proven track record with 1,000+ satisfied business clients", "Proactive seminars and frequent competitions for engagement", "Practical and professional tailored advices on current updates in market",
 
-            "Practical, creative solutions tailored to your business needs",
+
             "Comprehensive support from formation to exit planning",
             "Expert guidance in complex regulatory environments"].
             map((benefit, index) =>
