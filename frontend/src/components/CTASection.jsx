@@ -5,8 +5,8 @@ const CTASection = () => {
   return (
     <section className="py-20 px-6 bg-white">
       <div className="container mx-auto max-w-3xl text-left">
-        <h2 className="text-4xl md:text-5xl font-serif text-gray-900 mb-8">
-          Join Us Today for Expert Insights!
+        <h2 className="text-4xl md:text-5xl font-serif text-gray-900 mb-8">Join Us Today for Expert Insights !!
+
         </h2>
         
         <div className="flex items-center gap-4">
@@ -15,8 +15,8 @@ const CTASection = () => {
           </div>
         </div>
       </div>
-    </section>
-  );
+    </section>);
+
 };
 
 export default CTASection;
