@@ -188,6 +188,6 @@ export const teamData = [
   id: 3,
   name: "Sarthak Kumar Ambastha",
   position: "Student Leader",
-  bio: "Emily's expertise in international trade law helps clients navigate complex global regulations.",
+  bio: "Gaining specialized insights over corporate functioning and command in understanding the intricacies help and guide student in meaningful way",
   image: getImg('team', 2, defaultTeamImages[2])
 }];
