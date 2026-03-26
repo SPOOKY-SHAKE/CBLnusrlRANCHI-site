@@ -21,15 +21,15 @@ const ContactPage = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     setIsSubmitting(true);
-    
+
     try {
       await axios.post(`${API}/contact`, formData);
-      
+
       toast({
         title: "Message Sent Successfully!",
-        description: "Thank you for contacting us. We'll get back to you soon.",
+        description: "Thank you for contacting us. We'll get back to you soon."
       });
-      
+
       setFormData({ name: '', email: '', phone: '', subject: '', message: '' });
     } catch (error) {
       toast({
@@ -71,7 +71,7 @@ const ContactPage = () => {
                     <MapPin className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <h3 className="!font-['Georgia'] !font-normal !text-lg mb-1 text-gray-900">
+                    <h3 className="!font-['Georgia'] !font-normal !text-2xl mb-1 text-gray-900">
 
 
 National University of Study and Research in Law 
