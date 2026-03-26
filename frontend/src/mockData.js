@@ -57,7 +57,7 @@ export const statsData = [
 },
 {
   label: "",
-  value: "98%"
+  value: ""
 },
 {
   label: "",
