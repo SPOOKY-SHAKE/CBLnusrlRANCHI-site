@@ -142,7 +142,7 @@ export const teamData = [
 },
 {
   id: 2,
-  name: "Michael Rodriguez",
+  name: "Prof. Dr. Shantanu Braj Choubey",
   position: "Senior Partner",
   bio: "Specializing in compliance and regulatory law, Michael brings deep expertise to complex legal challenges.",
   image: "https://images.unsplash.com/photo-1658249682512-1bb162538ba9?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzOTB8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBsYXd5ZXJ8ZW58MHx8fHwxNzc0NDIxMjg4fDA&ixlib=rb-4.1.0&q=85"
