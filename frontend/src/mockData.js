@@ -2,7 +2,7 @@ export const servicesData = [
 {
   id: 1,
   title: "Research & Development",
-  description: "Expert legal research and analysis to support strategic business decisions and regulatory compliance.",
+  description: "Expert legal research and analysis for strategic business decisions and regulatory compliance.",
   image: "https://images.unsplash.com/photo-1598139384902-5a8217874645?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA2OTV8MHwxfHNlYXJjaHwxfHxidXNpbmVzcyUyMGxhdyUyMG9mZmljZXxlbnwwfHx8fDE3NzQ0MjEyODR8MA&ixlib=rb-4.1.0&q=85"
 },
 {
