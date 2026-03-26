@@ -188,6 +188,6 @@ export const teamData = [
   id: 3,
   name: "Sarthak Kumar Ambastha",
   position: "Student Leader",
-  bio: "Gaining specialized insights over corporate functioning and command in understanding the intricacies help and guide student in meaningful way",
+  bio: "Gaining specialized insights over corporate functioning and command in understanding the functioning intricacies. He help and guide student in meaningful way",
   image: getImg('team', 2, defaultTeamImages[2])
 }];
