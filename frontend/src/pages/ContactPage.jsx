@@ -86,7 +86,7 @@ LOCATED AT : Nagri, PO: Bukru, PS: Kanke-Pithoria Road, Kanke, Ranchi (Jharkhand
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Phone Number</h3>
-                    <p className="!font-['Georgia'] !text-xs !text-center !text-[#000000]">FACULTY CONVENOR   : 00000 00000 STUDENT CONVENER: 88006 23704</p>
+                    <p className="!font-['Georgia'] !text-lg !text-center !text-[#000000]">FACULTY CONVENOR   : 00000 00000 STUDENT CONVENER: 88006 23704</p>
                   </div>
                 </div>
                 
