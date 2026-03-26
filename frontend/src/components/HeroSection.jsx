@@ -14,7 +14,7 @@ const HeroSection = () => {
       </div>
       <div className="container mx-auto relative z-10">
         <div className="max-w-5xl mx-auto">
-          <h1 className="!font-['Times_New_Roman'] !font-medium !text-6xl !text-center mb-8 text-gray-900">WE RESEARCH  ,  SO YOU KEEP UPDATED 
+          <h1 className="!font-['Times_New_Roman'] !font-medium !text-8xl !text-center mb-8 text-gray-900">WE RESEARCH  ,     SO YOU KEEP UPDATED 
 
           </h1>
           
