@@ -19,7 +19,7 @@ const HeroSection = () => {
           </h1>
           
           <div className="space-y-6 mb-8 text-gray-700 leading-relaxed">
-            <p>The Center for Business Law in National University of Study and Research in Law, Ranchi serves as a premier hub for seeking insights in business law and ; offering extensive resources, research and events tailored for today's professional.
+            <p>The Center for Business Law in National University of Study and Research in Law, Ranchi serves as a premier hub for seeking insights in business law and offering extensive resources, research and events tailored for today's professional.
 
             </p>
             
