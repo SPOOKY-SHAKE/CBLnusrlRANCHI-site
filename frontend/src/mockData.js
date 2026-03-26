@@ -181,7 +181,7 @@ export const teamData = [
   id: 2,
   name: "Prof. Dr. Shantanu Braj Choubey",
   position: "Faculty Advisor",
-  bio: "Specializing in compliance and regulatory law, Michael brings deep expertise to complex legal challenges.",
+  bio: "Specialization in company law and regulatory framework, brings deep expertise to complex legal challenges and contemporary issues.",
   image: getImg('team', 1, defaultTeamImages[1])
 },
 {
