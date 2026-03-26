@@ -174,7 +174,7 @@ export const teamData = [
   id: 1,
   name: "Prof. Dr. Hiral Mehta",
   position: "Faculty Convenor ",
-  bio: "With over 25 years of experience in corporate law, Sarah leads our firm with vision and expertise.",
+  bio: "With over 25 years of experience in corporate law, she guide and lead our student body with vision and expertise.",
   image: getImg('team', 0, defaultTeamImages[0])
 },
 {
