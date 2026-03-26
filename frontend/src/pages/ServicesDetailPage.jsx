@@ -44,7 +44,7 @@ const ServicesDetailPage = () => {
 
       <section className="py-20 px-6 bg-[#FDF5F0]">
         <div className="container mx-auto max-w-4xl">
-          <h2 className="text-4xl font-serif text-gray-900 mb-12 text-center">Why Choose Our Services</h2>
+          <h2 className="text-4xl font-serif text-gray-900 mb-12 text-center">Why Choose Us ??</h2>
           <div className="space-y-6">
             {["Industry linked legal expertise",
 
