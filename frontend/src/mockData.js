@@ -136,7 +136,7 @@ export const teamData = [
 {
   id: 1,
   name: "Prof. Dr. Hiral Mehta",
-  position: "Managing Partner",
+  position: "Faculty Convenor ",
   bio: "With over 25 years of experience in corporate law, Sarah leads our firm with vision and expertise.",
   image: "https://images.unsplash.com/photo-1658249682487-882436e01650?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjAzOTB8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBsYXd5ZXJ8ZW58MHx8fHwxNzc0NDIxMjg4fDA&ixlib=rb-4.1.0&q=85"
 },
