@@ -71,7 +71,7 @@ const ContactPage = () => {
                     <MapPin className="w-6 h-6 text-white" />
                   </div>
                   <div>
-                    <h3 className="!font-['Georgia'] !font-normal !text-2xl mb-1 text-gray-900">
+                    <h3 className="!font-['Georgia'] !font-normal !text-base mb-1 text-gray-900">
 
 
 National University of Study and Research in Law 
@@ -86,7 +86,7 @@ LOCATED AT : Nagri, PO: Bukru, PS: Kanke-Pithoria Road, Kanke, Ranchi (Jharkhand
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Phone Number</h3>
-                    <p className="!font-['Georgia'] !text-2xl !text-center text-gray-600">FACULTY CONVENOR   : 00000 00000 STUDENT CONVENER: 88006 23704</p>
+                    <p className="!font-['Georgia'] !text-xs !text-center !text-[#000000]">FACULTY CONVENOR   : 00000 00000 STUDENT CONVENER: 88006 23704</p>
                   </div>
                 </div>
                 
@@ -96,7 +96,7 @@ LOCATED AT : Nagri, PO: Bukru, PS: Kanke-Pithoria Road, Kanke, Ranchi (Jharkhand
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900 mb-1">Email</h3>
-                    <p className="text-gray-600">cbl@nusrlranchi.ac.in</p>
+                    <p className="!font-['Times_New_Roman'] !text-lg !text-[#000000]">cbl@nusrlranchi.ac.in</p>
                   </div>
                 </div>
               </div>
@@ -104,9 +104,9 @@ LOCATED AT : Nagri, PO: Bukru, PS: Kanke-Pithoria Road, Kanke, Ranchi (Jharkhand
               <div className="mt-12">
                 <h3 className="text-xl font-serif text-gray-900 mb-4">Office Hours</h3>
                 <div className="space-y-2 text-gray-600">
-                  <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
-                  <p>Saturday: 10:00 AM - 2:00 PM</p>
-                  <p>Sunday: Closed</p>
+                  <p className="!font-['Times_New_Roman']">Monday - Friday: 9:00 AM - 6:00 PM</p>
+                  <p className="!font-['Times_New_Roman']">Saturday: 10:00 AM - 2:00 PM</p>
+                  <p className="!font-['Times_New_Roman']">Sunday: Closed</p>
                 </div>
               </div>
             </div>
