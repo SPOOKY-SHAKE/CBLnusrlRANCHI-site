@@ -93,3 +93,10 @@ android-sdk/ -e
 # Environment files
 *.env
 *.env.*
+# Railway files (remove)
+Procfile
+nixpacks.toml
+
+# Vercel
+.vercel
+  
